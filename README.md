@@ -4,7 +4,7 @@
 The **Amazon Sales Dashboard** is a data visualization project designed to provide insights into sales performance. It displays key metrics such as total sales amount, courier status, top product categories, delivery partners, fulfillment methods, and shipping states.
 
 ## Dataset used
-<a href="">Dataset</a>
+<a href="https://github.com/harsh-118/Amazone-Sales-Dashboard/blob/main/Amazon-Sales-Report-20K-Rows.xlsx">Dataset</a>
 
 ## Features
 - **Sales Amount:** Displays total sales in millions.
