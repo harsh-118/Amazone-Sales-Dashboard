@@ -14,7 +14,7 @@ The **Amazon Sales Dashboard** is a data visualization project designed to provi
 - **Fulfillment Methods:** Compares Amazon vs. Merchant fulfillment.
 - **Size Distribution:** Represents product sizes in sales.
 - **Shipping States:** Identifies the top states where orders were shipped.
-- **Dashboard Interaction:**<a href="">Dashboard</a>
+- **Dashboard Interaction:**<a href="https://github.com/harsh-118/Amazone-Sales-Dashboard/blob/main/Amazon%20sales%20report.pbix">Dashboard</a>
 
 ## Technologies Used
 - **Power BI** for data visualization
